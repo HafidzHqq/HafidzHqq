@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2196F3&height=220&section=header&text=Hafidz%20Haqiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Next.js%20%2B%20Supabase&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2196F3&height=220&section=header&text=Hafidz%20Haqiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Next.js+%2B+Supabase+Enthusiast;Building+Posyandu+Girimulyo+%F0%9F%8F%A5;Turning+Ideas+Into+Real+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HafidzHqq/HafidzHqq/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
 ---
@@ -39,10 +39,9 @@ role: Fullstack Developer
 university: ITERA
 major: Informatics Engineering
 focus:
-  - Next.js
-  - Supabase
   - React.js
   - TailwindCSS
+  - Fullstack Development
 currently_building: Posyandu Girimulyo
 status: "Available for collab 🚀"
 ```
