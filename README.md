@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2196F3&height=220&section=header&text=Hafidz%20Haqiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2196F3&height=220&section=header&text=Hafidz%20Haqiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Next.js+%2B+Supabase+Enthusiast;Building+Posyandu+Girimulyo+%F0%9F%8F%A5;Turning+Ideas+Into+Real+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Future+AI+Engineer+%F0%9F%A4%96;Next.js+%2B+Supabase+Enthusiast;Building+Posyandu+Girimulyo+%F0%9F%8F%A5;Arch+Linux+%2B+Hyprland+User+%F0%9F%90%A7;Turning+Ideas+Into+Real+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HafidzHqq/HafidzHqq/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafidzHqq/HafidzHqq/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HafidzHqq/HafidzHqq/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HafidzHqq/HafidzHqq/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
 ---
@@ -20,97 +24,29 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
+  
+Hi there! 👋 I'm an Informatics Engineering student at the <b>Institut Teknologi Sumatera (ITERA)</b> based in Bandar Lampung. I love building elegant and edgy software solutions, with a strong ambition to transition into an AI Engineer role in the future.
 
-- 🎓 Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)**
-- 🏗️ Currently building **Posyandu Girimulyo**, a community health information system for local Posyandu services
-- 🧩 Comfortable across the stack: **Next.js** on the frontend, **Supabase** for auth & database on the backend
-- 🌱 Sharpening my skills in **React.js, TailwindCSS**, and clean Git/GitHub workflows
-- 🎯 Interested in building software that actually helps people in my community, not just portfolio pieces
-- 💬 Ask me about **Next.js, Supabase, or Git workflow management**
-- 📫 Reach me through the links below — always open to collab or a chat about web dev!
+<b>Current Focus & Projects:</b>
+- 🏗️ Building <b>Posyandu Girimulyo</b>, a community health info system.
+- 🚀 Developing <b>VitalED</b>, a hypertension educational & detection web app (Firebase).
+- 💻 Crafting online management & QR-attendance systems for HMIF ITERA.
+- 🐧 Tiling my way through development natively on <b>Arch Linux / CachyOS (Hyprland)</b>.
 
+Always looking to write cleaner code and build apps that make a real community impact!
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ```yaml
 name: Hafidz Haqiqi
+alias: qq
 role: Fullstack Developer
 university: ITERA
 major: Informatics Engineering
-focus:
-  - React.js
-  - TailwindCSS
-  - Fullstack Development
-currently_building: Posyandu Girimulyo
+location: Bandar Lampung, ID
+os_env: Arch Linux + Hyprland
+goals: 
+  - Master Next.js ecosystem
+  - Become an AI Engineer 🤖
 status: "Available for collab 🚀"
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white;border-radius:6px;padding:2px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
-
----
-
-### 📌 Featured Project
-
-<a href="https://github.com/HafidzHqq/posyandu-girimulyo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HafidzHqq&repo=posyandu-girimulyo&theme=radical&hide_border=true" alt="Posyandu Girimulyo" />
-</a>
-
-> A web-based information system for **Posyandu Girimulyo**, built with Next.js and Supabase to help digitize and streamline community health post services.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafidzHqq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Hafidz's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafidzHqq&theme=radical&hide_border=true&background=0D1117" alt="streak stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzHqq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafidzHqq&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/hafidz-haqiqi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/hf_dzzz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/HafidzHqq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Code is easy, consistency is the real challenge."</i>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:2C5364,100:0F2027&height=120&section=footer" />
