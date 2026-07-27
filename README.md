@@ -32,9 +32,8 @@
 Hi there! 👋 I'm an Informatics Engineering student at the <b>Institut Teknologi Sumatera (ITERA)</b> based in Bandar Lampung. I love building elegant and edgy software solutions, with a strong ambition to transition into an AI Engineer role in the future.
 
 <b>Current Focus & Projects:</b>
-- 🚀 Developing <b>VitalED</b>, a hypertension educational & detection web app (Firebase).
 - 💻 Crafting an online management & QR-attendance system for HMIF ITERA.
-- 🐧 Tiling my way through development natively on <b>Arch Linux / CachyOS (Hyprland)</b>.
+- 💻 Crafting a flood prediction system for Lampung's rob, using Machine Learning
 
 Always looking to write cleaner code and build apps that make a real community impact!
 </td>
@@ -47,8 +46,7 @@ role: Fullstack Developer
 university: ITERA
 major: Informatics Engineering
 location: Bandar Lampung, ID
-os_env: Arch Linux + Hyprland
-goals: 
+goals:
   - Master Web Technologies
   - Become an AI Engineer 🤖
 status: "Available for collab 🚀"
