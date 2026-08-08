@@ -32,7 +32,7 @@
 Hi there! 👋 I'm an Informatics Engineering student at the <b>Institut Teknologi Sumatera (ITERA)</b> based in Bandar Lampung. I love building elegant and edgy software solutions, with a strong ambition to transition into an AI Engineer role in the future.
 
 <b>Current Focus & Projects:</b>
-- 💻 Crafting an online management & QR-attendance system for HMIF ITERA.
+- 💻 Crafting an online management & attendance system for HMIF ITERA.
 - 💻 Crafting a flood prediction system for Lampung's rob, using Machine Learning
 
 Always looking to write cleaner code and build apps that make a real community impact!
