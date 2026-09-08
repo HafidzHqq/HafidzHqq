@@ -29,7 +29,7 @@
 <tr>
 <td width="55%" valign="top">
   
-Hi there! 👋 I'm an Informatics Engineering student at the <b>Institut Teknologi Sumatera (ITERA)</b> based in Bandar Lampung. I love building elegant and edgy software solutions, with a strong ambition to transition into an AI Engineer role in the future.
+Hi there! 👋 I'm an Informatics student at the <b>Institut Teknologi Sumatera (ITERA)</b> based in Bandar Lampung. I love building elegant and edgy software solutions, with a strong ambition to transition into an AI Engineer role in the future.
 
 <b>Current Focus & Projects:</b>
 - 💻 Crafting an online management & attendance system for HMIF ITERA.
@@ -42,9 +42,9 @@ Always looking to write cleaner code and build apps that make a real community i
 ```yaml
 name: Hafidz Haqiqi
 alias: qq
-role: Fullstack Developer
+role: ----------
 university: ITERA
-major: Informatics Engineering
+major: Informatics
 location: Bandar Lampung, ID
 goals:
   - Master Web Technologies
