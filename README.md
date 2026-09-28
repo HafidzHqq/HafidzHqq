@@ -47,6 +47,5 @@ university: ITERA
 major: Informatics
 location: Bandar Lampung, ID
 goals:
-  - Master Web Technologies
   - Become an AI Engineer 🤖
 status: "Available for collab 🚀"
